@@ -11,4 +11,4 @@ O experimento consiste em construir a matriz de rastreabilidade do software a pa
 1. Faça uma cópia da planilha de rastreabilidade que está disponpivel no link: https://docs.google.com/spreadsheets/d/1IQcrMEZmO6MKV33R8uQjRSW2aOIHs7N4NEiH7Tyi024/edit?usp=sharing
 1. Compartilhe a cópia criada com: cassia_ramos@live.com
 1. Ao iniciar preencha na planilha o horário de início, e ao terminar preencha o horário de término.
-1. Construa a matriz de rastreabilidade de acordo com o treinamento que foi dado. Os slides do treinamento está no link: https://docs.google.com/presentation/d/1-gOfdYHcRdzr9KI9D_CIdwk0bn_HyFfKT24mBCjaaqE/edit?usp=sharing
+1. Construa a matriz de rastreabilidade de acordo com o treinamento que foi dado. Os slides do treinamento estão no link: https://docs.google.com/presentation/d/1-gOfdYHcRdzr9KI9D_CIdwk0bn_HyFfKT24mBCjaaqE/edit?usp=sharing
